@@ -1,2 +1,2 @@
 🧑‍🎓 Hi, I'm Youdeep,
-⏳ Working on analysis of Big Data.
+⏳ Working Big Data & Data Modelling
